@@ -1,8 +1,7 @@
 # ollama-app-prompt-template
-Prompt template to develop chat gpt like interface using ollama 
 
-Prompt Template: Developing a ChatGPT-like UI with Ollama and llama3.2:latest
-
+**Prompt Template: Developing a ChatGPT-like UI with Ollama and llama3.2:latest
+**
 
 You are an architect with expertise in node and react.  You are going to develop a chatbot application with a user interface similar to ChatGPT. 
 
