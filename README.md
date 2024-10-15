@@ -25,7 +25,7 @@ Clear differentiation between user and bot messages
 Backend Integration:
 
 Setting up a simple backend server to interface with Ollama
-API endpoint for sending messages to the llama2 model and receiving responses
+API endpoint for sending messages to the model and receiving responses
 
 
 Advanced Features:
@@ -59,9 +59,7 @@ Auto-scrolling to the latest message
 Ability to send messages using the Enter key
 
 Easy to debug:
-Add detailed logging to console on both backend and frontend layers.
-
-Potential Future Improvements:
+Add detailed logging for both backend and frontend layers.
 
 
 
