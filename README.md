@@ -35,12 +35,6 @@ Calculation and display of total response time
 Error handling and display of error messages in the UI
 
 
-Code Structure:
-
-Modular React components for better maintainability
-Clear separation of concerns between UI, state management, and API calls
-
-
 Styling:
 
 Use of a CSS-in-JS solution like styled-components for styling
