@@ -9,7 +9,7 @@ lets use Ollama with the llama3.2:latest model for the backend and consume the a
 
 Environment Setup:
 
-Instructions for installing Ollama and pulling the llama2:latest model
+Instructions for installing Ollama and pulling the model
 Setting up a React project for the frontend
 List of necessary dependencies
 
