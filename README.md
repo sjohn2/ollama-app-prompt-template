@@ -1,11 +1,11 @@
 # ollama-app-prompt-template
 
-**Prompt Template: Developing a ChatGPT-like UI with Ollama and llama3.2:latest
+**Prompt Template: Developing a ChatGPT-like UI with Ollama and gemma2:2b
 **
 
 You are an architect with expertise in node and react.  You are going to develop a chatbot application with a user interface similar to ChatGPT. 
 
-lets use Ollama with the llama3.2:latest model for the backend and consume the api end point as http://localhost:11434/api/generate. Please provide detailed, step-by-step guidance on how to build this application, including code snippets where appropriate. The application should have the following features and requirements:
+lets use Ollama with the gemma2:2b model for the backend and consume the api end point as http://localhost:11434/api/generate. Please provide detailed, step-by-step guidance on how to build this application, including code snippets where appropriate. The application should have the following features and requirements:
 
 Environment Setup:
 
