@@ -14,18 +14,20 @@ Setting up a React project for the frontend
 List of necessary dependencies
 
 
-Frontend Development:
+Backend Integration:
+Setup a simple backend server using node, express to interface with Ollama
+API endpoint for sending messages to the model and receiving responses
 
+
+Frontend Development:
 A clean, responsive UI design similar to ChatGPT
 A message input field and send button
 A scrollable message display area
 Clear differentiation between user and bot messages
+Do not directly interface with ollama, use the backend server to  communicate with ollama
 
 
-Backend Integration:
 
-Setting up a simple backend server to interface with Ollama
-API endpoint for sending messages to the model and receiving responses
 
 
 Advanced Features:
